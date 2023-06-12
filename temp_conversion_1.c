@@ -1,6 +1,6 @@
 /* Original temperature conversion program provided */
 
-#inclue <stdio.h>
+#include <stdio.h>
 
 /* print Fahrenheit-Celsius table
     for fahr = 0, 20, ..., 300 */
